@@ -3,6 +3,7 @@
 ## Integrantes
 
 - Stela · sua dupla neste projeto
+- Antônio · sou eu
 
 ## Combinados do time
 
