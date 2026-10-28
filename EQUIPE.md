@@ -3,7 +3,7 @@
 ## Integrantes
 
 - Stela · sua dupla neste projeto
-- Antônio · sou eu
+- Antônio · Análise e Desenvolvimento de Sistemas
 
 ## Combinados do time
 
