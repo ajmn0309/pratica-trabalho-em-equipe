@@ -3,7 +3,11 @@
 ## Integrantes
 
 - Stela · sua dupla neste projeto
+
 - Antônio · Análise e Desenvolvimento de Sistemas
+
+- Octocat · mascote da equipe 🐙
+
 
 ## Combinados do time
 
